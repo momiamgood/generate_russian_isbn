@@ -1,6 +1,6 @@
 {
-    "name": "momiamgood/pac",
-    "description": "pac",
+    "name": "momiamgood/generate_russian_isbn",
+    "description": "generate_russian_isbn",
     "type": "library",
     "license": "MIT",
     "autoload": {
