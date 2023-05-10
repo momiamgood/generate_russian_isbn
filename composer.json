@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Momiamgood\\Isbn\\": "pac/src/"
+            "Momiamgood\\Isbn\\": "src/"
         }
     },
     "minimum-stability": "dev",
